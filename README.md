@@ -11,8 +11,8 @@ Hi, I'm **QiChen**! I'm a student at **Central South University**, majoring in *
 ### 📊 My GitHub Stats
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QiChenSn&layout=compact&theme=light&hide_border=true" alt="Top Languages" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=QiChenSn&show_icons=true&theme=light&hide_border=true" alt="QiChen's GitHub Stats" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QiChenSn" alt="Top Languages" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=QiChenSn" alt="QiChen's GitHub Stats" style="max-width: 100%; height: auto;" />
 </div>
 
 ---
